@@ -1,8 +1,8 @@
 <!doctype html>
-<html lang="en">
+<html>
 <head>
     <title>Esport NEWS</title>
-    <meta charset="utf-8"
+    <meta charset="utf-8">
 </head>
 <body>
    <!-- Hello there -->
@@ -11,25 +11,26 @@
     <h2>About me</h2>
     <p>This is my website about cats.</p>
    </header>
-     <section>
-        <h1>Section 1</h1>
-            <p>This is a section.</p>
-     </section>
-     <section>
-        <h2>Favourite colours</h2>
-            <ol>
-                <li>Red</li>
-                <li>Blue</li>
-                <li>Green</li>
-            </ol>
-            <ul>
-                <li>Apples</li>
-                <li>Bananas</li>
-                <li>Oranges</li>
-            </ul>
-     </section>
-     <footer>
-        <p>Website made by Zerg.</p>
-     </footer>
-</body>
-</html>
+<section>
+    <h1>Section 1</h1>
+    <p>This is a section.</p>
+</section>
+<footer>
+    <p>Website made by Zerg.</p>
+</footer>
+<section>
+    <h1>Favourite colours</h1>
+    <ol>
+        <li>Red</li>
+        <li>Blue</li>
+        <li>Green</li>
+    </ol>
+</section>
+<section>
+    <ul>
+        <li>Apples</li>
+        <li>Bananas</li>
+        <li>Oranges</li>
+    </ul>
+</section>
+</html
